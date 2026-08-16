@@ -1,0 +1,6 @@
+Debug/
+Release/
+build/
+STM32CubeIDE/Drivers/
+U5_Audio_KWS/STM32CubeIDE/.settings/
+*.launch
